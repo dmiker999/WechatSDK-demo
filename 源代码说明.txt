@@ -1,0 +1,8 @@
+基于springMVC的java微信公众平台开发
+
+java微信公众平台开发，基于springMVC技术和xstream，json等技术，通过使用图灵机器人接口，实现微信公众号的智能回复。
+
+
+本代码版权归原作者所有，如用于商业用途请联系作者。
+
+更多源代码请访问好库编程网  http://www.okbase.net
